@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dataset resized</folder>
+	<filename>IMG_20220904_133048.jpg</filename>
+	<path>C:/Users/Пользователь/Desktop/dataset resized/IMG_20220904_133048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>131</ymin>
+			<xmax>144</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>127</ymin>
+			<xmax>206</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>159</ymin>
+			<xmax>178</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
